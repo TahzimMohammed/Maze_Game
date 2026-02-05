@@ -14,8 +14,8 @@ A command-line maze program written in **C** that loads mazes from text files, v
 
 ## Project Structure
 
-- `maze.c` — main implementation :contentReference
-- `makefile` — build rules :contentReference
+- `maze.c` — main implementation 
+- `makefile` — build rules 
 - `*.in` / `*.txt` — sample mazes + negative tests (invalid width/height, invalid chars, open/closed cases, etc.) 
 
 ---
