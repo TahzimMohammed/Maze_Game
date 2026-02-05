@@ -21,7 +21,7 @@ A command-line maze program written in **C** that loads mazes from text files, v
 
 ---
 
-## 🧰 Build & Run
+## Build & Run
 
 ### Build
 ```bash
